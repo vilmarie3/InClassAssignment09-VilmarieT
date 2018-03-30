@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    tools:context="com.example.android.inclassassignment09_vilmariet.MainActivity">
+
+    <EditText
+        android:id="@+id/title_text_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/title"
+         />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/set_title"
+        android:background="@color/yellow"
+        android:layout_margin="5dp"
+        android:onClick="Set"/>
+
+    <EditText
+        android:id="@+id/material_text_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:hint="@string/house_material"/>
+    <EditText
+        android:id="@+id/number_text_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:hint="@string/house_number"/>
+    <CheckBox
+        android:id="@+id/blown_away_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="12dp"
+        android:layout_margin="5dp"
+        android:text="@string/blown_down_by_the_wolf"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_storybook_information"
+        android:background="@color/yellow"
+        android:padding="8dp"
+        android:layout_margin="5dp"
+        android:onClick="Add"/>
+
+
+
+</LinearLayout>

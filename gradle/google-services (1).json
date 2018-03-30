@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "866814508530",
+    "firebase_url": "https://inclassassignment09-vilmariet.firebaseio.com",
+    "project_id": "inclassassignment09-vilmariet",
+    "storage_bucket": "inclassassignment09-vilmariet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866814508530:android:97f088922e18b22e",
+        "android_client_info": {
+          "package_name": "com.example.android.inclassassignment09_vilmariet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866814508530-06ks0560f6mpcb1mm84palbe5ac49jll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5L78IqykOg2SPjkGV579-Gb2zs_UFYmY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

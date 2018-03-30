@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InClassAssignment09-VilmarieT</string>
+    <string name="set_title">Set Title</string>
+    <string name="house_material">House Material</string>
+    <string name="house_number">House Number</string>
+    <string name="blown_down_by_the_wolf">Blown down by the wolf?</string>
+    <string name="add_storybook_information">Add Storybook information</string>
+    <string name="title">Title</string>
+</resources>
